@@ -1,0 +1,12 @@
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\bin\Debug\SEC_tie_out.exe.config
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\bin\Debug\SEC_tie_out.exe
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\bin\Debug\SEC_tie_out.pdb
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.csprojResolveAssemblyReference.cache
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.Form1.resources
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.Properties.Resources.resources
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.csproj.GenerateResource.Cache
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.exe
+c:\users\mike.breecher\documents\visual studio 2015\Projects\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.pdb
+C:\cs\SEC_tie_out\SEC_tie_out\bin\Debug\SEC_tie_out.exe.config
+C:\cs\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.exe
+C:\cs\SEC_tie_out\SEC_tie_out\obj\Debug\SEC_tie_out.pdb
